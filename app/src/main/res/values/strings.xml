@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name="btNotificar">Crear Notificacion</string>
+    <string name="btCerrar">Cerrar</string>
+</resources>
